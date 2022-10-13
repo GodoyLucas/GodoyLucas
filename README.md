@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Bem vindo ao meu perfil no GitHub.
 
-<!--
-**GodoyLucas/GodoyLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Godoy, mas, caso queria, pode me chamar apenas pelo sobrenome.
 
-Here are some ideas to get you started:
+Sou bacharel em Engenharia Civil pelo Instituto Federal de Goiás - IFG e Cientista de Dados em formação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho perseguido o sonho de me desenvolver como cientista de dados estudando sozinho por cursos e materiais online. Sou entusiasta do poder dos dados desde os tempos de faculdade, mas foi desde 02/2022 que mergulhei na área e venho estudando Banco de Dados, Modelagem de Dados, SQL, ETL, Python e Estatística para Data Science, Machine Learning e Business Intelligence.
+
+Ainda em construção, este perfil servirá para que eu possa compartilhar meus projetos e estudos em Data Science. Fique a vontade para explorar, contribuir e compartilhar.
+
+<div>
+<a href="https://www.linkedin.com/in/lucas-godoy-09616073/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
